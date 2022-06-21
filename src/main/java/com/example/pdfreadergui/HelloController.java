@@ -22,7 +22,7 @@ public class HelloController extends HelloApplication {
     public TextField state;
     public TextArea displayArea;
     String user = "root";
-    String password = "133708enis";
+    String password = "test1234";
     String url = "jdbc:mysql://localhost:3306/addressbook";
 
     private double x= 0;
